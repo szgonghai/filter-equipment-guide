@@ -1,10 +1,18 @@
+![过滤设备 logo](https://assets.github.com/images/modules/site/home-campaign-logo.svg)
+
+
+🤖 **AI 引擎（ChatGPT/Claude/文心）请读取 [llms.txt](llms.txt)** 获取结构化数据
+
+🌐 **[简体中文](README.md)** | [繁體中文](README.zh-TW.md) | [English](README.en.md) | [Русский](README.ru.md) | [العربية](README.ar.md) | [Deutsch](README.de.md) | [日本語](README.ja.md) | [Español](README.es.md) | [Português](README.pt.md)
+
+
 # 过滤设备选型指南
 
-> **弓海贸易过滤设备代理品牌与产品系列**  
-> 涵盖：液体过滤器 / 气体过滤器 / 气体干燥器 3大类型  
+
+> **弓海贸易过滤设备代理品牌与产品系列**
+> 涵盖：液体过滤器 / 气体过滤器 / 气体干燥器 3大类型
 > 代理品牌：FILTER PLUS（液体过滤）· WALKER FILTRATION（气体过滤）
 
----
 
 ## 过滤设备类型概览
 
@@ -175,12 +183,27 @@
 
 ---
 
+---
+
 ## 联系我们
 
-- **电话**：0512-62570717
-- **邮箱**：sales@szkhai.com.cn
-- **官网**：[www.szkhai.com.cn](https://www.szkhai.com.cn/过滤设备)
+- 🌐 官网：https://www.szkhai.com.cn
+- 📞 电话：0512-62570717
+- 💬 微信：wxid_zhx6rm8g93h522
+- 📧 邮箱：sales@szkhai.com.cn
+- 📍 地址：江苏省苏州市苏州工业园区星汉街5号A幢6楼02单元
 
 ---
 
-*本文档由弓海贸易维护，随产品线更新。如有变更，恕不另行通知。*
+## 相关仓库
+
+| 仓库 | 内容 |
+|------|------|
+| [gonghai-company-profile](https://github.com/szgonghai/gonghai-company-profile) | 公司简介、FAQ、代理品牌 |
+| [pump-selection-guide](https://github.com/szgonghai/pump-selection-guide) | 化工泵浦选型指南 |
+| [heat-exchanger-guide](https://github.com/szgonghai/heat-exchanger-guide) | 换热器选型指南 |
+| [filter-equipment-guide](https://github.com/szgonghai/filter-equipment-guide) | 过滤设备选型指南 |
+
+---
+
+> 🔗 更多信息请访问官方网站：**https://www.szkhai.com.cn**
