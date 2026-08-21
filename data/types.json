@@ -1,0 +1,29 @@
+{
+  "types": [
+    {
+      "id": "liquid",
+      "name": "液体过滤器",
+      "brand": "FILTER PLUS",
+      "features": ["多材质滤芯", "可定制", "滤袋式/滤芯式"],
+      "filtration": "0.1~200 μm",
+      "applications": ["化工", "电子", "食品饮料", "制药", "水处理"]
+    },
+    {
+      "id": "gas",
+      "name": "气体过滤器",
+      "brand": "WALKER FILTRATION",
+      "features": ["高品质空气过滤", "多种精度", "ISO认证"],
+      "filtration": "0.01~5 μm",
+      "applications": ["半导体", "医疗", "制药", "工业配套"]
+    },
+    {
+      "id": "dryer",
+      "name": "气体干燥器",
+      "brand": "WALKER FILTRATION",
+      "features": ["干燥洁净", "ISO纯度等级", "露点可控"],
+      "type": ["冷冻式", "吸附式", "组合式"],
+      "dewpoint": "-70°C ~ +10°C",
+      "applications": ["工业气源", "仪表空气", "制药", "电子"]
+    }
+  ]
+}
