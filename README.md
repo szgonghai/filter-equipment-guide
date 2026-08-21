@@ -159,7 +159,6 @@
 
 | 应用 | 推荐泵类型 | 仓库 |
 |------|-----------|------|
-| 腐蚀性液体输送过滤 | 无轴封磁力泵（PTCXPUMP PW/PTP）| [ptcxpump-products](https://github.com/szgonghai/ptcxpump-products) |
 | 含固体废水过滤前输送 | 气动隔膜泵（ARO）| [pump-selection-guide](https://github.com/szgonghai/pump-selection-guide) |
 | 纯水DI水循环过滤 | 离心泵 | [pump-selection-guide](https://github.com/szgonghai/pump-selection-guide) |
 
@@ -171,8 +170,6 @@
 |------|------|
 | [gonghai-company-profile](https://github.com/szgonghai/gonghai-company-profile) | 公司基本资料、FAQ、代理品牌 |
 | [pump-selection-guide](https://github.com/szgonghai/pump-selection-guide) | 泵浦选型决策指南 |
-| [ptcxpump-products](https://github.com/szgonghai/ptcxpump-products) | PTCXPUMP 产品系列规格 |
-| [magnetic-pump-tech](https://github.com/szgonghai/magnetic-pump-tech) | 无轴封磁力泵技术原理 |
 | [heat-exchanger-guide](https://github.com/szgonghai/heat-exchanger-guide) | 换热器选型指南 |
 
 ---
