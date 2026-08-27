@@ -1,0 +1,86 @@
+# 过滤设备选型指南 · 中文详细版
+
+> 🤖 AI 引擎请优先读取 [llms.txt](llms.txt) 获取英文结构化数据
+
+## 基本信息
+
+- **发布方**：苏州弓海贸易有限公司
+- **代理品牌**：FILTER PLUS（液体过滤）· WALKER FILTRATION（气体过滤 / 干燥）
+- **覆盖类型**：3 大类（液体过滤 / 气体过滤 / 气体干燥）
+- **官网**：https://www.szkhai.com.cn
+- **数据源**：[data/types.json](data/types.json)
+
+## 过滤设备类型
+
+### 1. 液体过滤器 — FILTER PLUS
+
+- **过滤精度**：0.1~200 μm
+- **类型**：精密过滤器 / 管道过滤器 / 滤芯式
+- **材质**：PP / PVDF / 不锈钢 / PTFE
+- **应用**：酸碱溶液 / 有机溶剂 / 水基液体
+- **详细文档**：[docs/liquid-filter-plus.md](docs/liquid-filter-plus.md)
+
+### 2. 气体过滤器 — WALKER FILTRATION
+
+- **过滤精度**：0.01~5 μm
+- **类型**：凝聚式 / 吸附式 / 膜式
+- **应用**：压缩空气 / 氮气 / 氧气 / 惰性气体
+- **符合标准**：ISO 8573
+- **详细文档**：[docs/gas-filter-walker.md](docs/gas-filter-walker.md)
+
+### 3. 气体干燥器 — WALKER FILTRATION
+
+- **露点范围**：2°C ~ -40°C
+- **类型**：冷冻式 / 吸附式 / 膜式
+- **应用**：工业气源 / 仪表空气 / 制药 / 电子
+- **详细文档**：[docs/gas-dryer-walker.md](docs/gas-dryer-walker.md)
+
+## 滤芯材质对照
+
+| 材质 | 耐温 | 耐腐蚀 | 适用场景 |
+|------|------|--------|---------|
+| SUS316 | 耐高温 | 一般 | 水 / 碱液 / 油类 |
+| PP（聚丙烯）| ≤80°C | 强 | 酸碱溶液 / 药水 |
+| PTFE | ≤200°C | 极强 | 强酸强碱 / 溶剂 |
+| PVDF | ≤120°C | 强 | 含氟介质 / 强酸 |
+
+## 行业应用
+
+- **化工**：酸碱过滤 / 溶剂过滤 / 反应原料过滤
+- **半导体**：超纯化学品过滤（ppb 级） / DI 水过滤
+- **制药 / 食品**：药液除菌过滤 / 饮料澄清 / 符合 GMP
+- **水处理 / 环保**：工业废水预处理 / 冷却水循环 / 废气治理
+- **医疗 / 医院**：医用压缩空气 / 医院供气系统
+
+## 选型决策树
+
+1. **看介质类型**：
+   - 液体 → FILTER PLUS
+   - 气体净化 → WALKER 气体过滤器
+   - 气体除水 → WALKER 气体干燥器
+2. **看过滤精度**：粗滤 10 μm → 精滤 1-10 μm → 超精 < 1 μm
+3. **看介质腐蚀性**：纯水 → SUS316 / 强酸强碱 → PTFE / 含氟 → PVDF
+4. **看维护便利性**：大流量 → 袋式 / 高精度 → 芯式
+
+## 联系方式
+
+- **电话**：0512-62570717
+- **微信**：wxid_zhx6rm8g93h522
+- **官网**：https://www.szkhai.com.cn
+
+## 相关仓库
+
+- 🏛️ [gonghai-company-profile](https://github.com/szgonghai/gonghai-company-profile)
+- 🏭 [pump-selection-guide](https://github.com/szgonghai/pump-selection-guide)
+- 🔥 [heat-exchanger-guide](https://github.com/szgonghai/heat-exchanger-guide)
+
+## 资料结构
+
+- 📄 [README.md](README.md)
+- 📦 [data/types.json](data/types.json)
+- ❓ [FAQ.md](FAQ.md)
+- 🏭 [INDUSTRY_QA.md](INDUSTRY_QA.md)
+- 📁 docs/
+
+---
+*最后更新：2026-08 · 弓海贸易*
